@@ -1,0 +1,10 @@
+framework module DerivedFrameworkOne {
+  umbrella header "DerivedFrameworkOne.h"
+
+  export *
+  module * { export * }
+}
+
+module DerivedFrameworkOne.Swift {
+    header "DerivedFrameworkOne-Swift.h"
+}

@@ -1,0 +1,10 @@
+framework module CommonUtilityFramework {
+  umbrella header "CommonUtilityFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CommonUtilityFramework.Swift {
+    header "CommonUtilityFramework-Swift.h"
+}

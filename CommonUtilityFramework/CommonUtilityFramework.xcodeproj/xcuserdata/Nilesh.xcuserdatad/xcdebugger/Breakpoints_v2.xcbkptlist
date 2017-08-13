@@ -6,7 +6,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CommonUtilityFramework/CommonFeature.swift"
@@ -17,6 +17,53 @@
             endingLineNumber = "10"
             landmarkName = "CommonUtilityProtocol"
             landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CommonUtilityFramework.CommonFeature.init () -&gt; CommonUtilityFramework.CommonFeature"
+                  moduleName = "CommonUtilityFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nilesh/Documents/MyGitHub/MyApps/CommonUtilityFramework/CommonUtilityFramework/CommonFeature.swift"
+                  timestampString = "522295355.717033"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CommonUtilityFramework.CommonFeature.__allocating_init () -&gt; CommonUtilityFramework.CommonFeature"
+                  moduleName = "CommonUtilityFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nilesh/Documents/MyGitHub/MyApps/CommonUtilityFramework/CommonUtilityFramework/CommonFeature.swift"
+                  timestampString = "522295355.720895"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CommonUtilityFramework.CommonFeature.__deallocating_deinit"
+                  moduleName = "CommonUtilityFramework"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Nilesh/Documents/MyGitHub/MyApps/CommonUtilityFramework/CommonUtilityFramework/CommonFeature.swift"
+                  timestampString = "522295355.713573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

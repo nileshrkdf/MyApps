@@ -1,0 +1,10 @@
+framework module DerivedFrameworkSecond {
+  umbrella header "DerivedFrameworkSecond.h"
+
+  export *
+  module * { export * }
+}
+
+module DerivedFrameworkSecond.Swift {
+    header "DerivedFrameworkSecond-Swift.h"
+}
